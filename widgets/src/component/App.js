@@ -17,11 +17,14 @@ const items =[
     }
 ];
 
-export default () => {
-    return <div><br/><Search /> </div> ;
+const App = () => {
+  return (
+    <div>
+      <Search />
+    </div>
+  );
 };
-
-
+export default App;
 
 
 
