@@ -1,3 +1,6 @@
 {
-  "marquee.widgets.npm-stats.packageNames": ["songs"]
+  "marquee.widgets.npm-stats.packageNames": [
+    "songs"
+  ],
+  "editor.formatOnSave": true
 }
